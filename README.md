@@ -31,7 +31,6 @@ urban-food-waste-analysis/
 
 * **Python** – Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels
 * **Jupyter Notebook**
-* **Tableau**
 * **QGIS**
 * **MS Excel**
 

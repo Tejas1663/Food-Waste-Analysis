@@ -1,0 +1,16 @@
+# Core libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Modeling
+scikit-learn
+statsmodels
+
+# Notebook environment
+jupyter
+notebook
+jupyterlab
